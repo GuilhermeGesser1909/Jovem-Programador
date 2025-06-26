@@ -9,6 +9,7 @@ public class ContaBancaria {
 	
 	//Construtor padrao
 	public ContaBancaria() {
+		System.out.printIn("Teste de pull");
 	}
 	
 	//Construtor com parametros
